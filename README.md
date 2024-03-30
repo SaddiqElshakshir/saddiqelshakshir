@@ -25,6 +25,7 @@
   - [Google Data Analytics Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Sales Force Fundamentals Specialization](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Social Media Marketing Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Google IT Support Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
