@@ -21,10 +21,10 @@
   - [Associate of Applied Science: Media](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>🧾Certifications</b>
   - [Information Technology](https://github.com/joshmadakor1/EncrypterPOC)
-  - [SQL for Data Science](https://github.com/joshmadakor1/DecrypterPOC)
+  - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/HZGQYCJJZB36)
   - [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/9K6PSXDN7C6N)
-  - [Sales Force Fundamentals Specialization](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Social Media Marketing Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Sales Force Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RQZ4V5U77S4F)
+  - [Social Media Marketing Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/N6KTBZQWZ5AB)
   - [Google IT Support Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
