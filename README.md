@@ -22,7 +22,7 @@
 - <b>🧾Certifications</b>
   - [Information Technology](https://github.com/joshmadakor1/EncrypterPOC)
   - [SQL for Data Science](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Google Data Analytics Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/9K6PSXDN7C6N)
   - [Sales Force Fundamentals Specialization](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Social Media Marketing Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
   - [Google IT Support Professional](https://github.com/joshmadakor1/Key-Logger-With-Email)
