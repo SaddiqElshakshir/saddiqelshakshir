@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Engineer Projects:</h2>
 
 - <b>Lab 1: Azure Crash Course (Azure)</b>
-  - [Creating Our Subscription and First Resource](https://github.com/SaddiqElshakshir/Lab-1/blob/main/README.md) 
+  - [Creating Our Subscription and First Resource](https://github.com/SaddiqElshakshir/OsTicket) 
 - <b>Lab 2: Azure Compute and Networking (Azure)</b>
   - [Resource Groups, Virtual Networks & Subnets, Virtual Machines and Network Security Groups](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Lab 3: Ticketing Systems (osTicket)(Azure)</b>
