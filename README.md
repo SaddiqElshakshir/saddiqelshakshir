@@ -16,6 +16,8 @@
   - [osTicket Overview and Virtual Machine Creation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Lab 7: Network File Shares and Permissions (Azure)</b>
   - [osTicket Overview and Virtual Machine Creation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>💻Social Media Marketing Projects</b>
+  - [osTicket Overview and Virtual Machine Creation](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>🧧Degree</b>
   - [Bachelor of Science: Technical Management](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Associate of Applied Science: Media](https://github.com/joshmadakor1/Sentinel-Lab)
